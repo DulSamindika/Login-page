@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel ="stylesheet" href="index.css">
+</head>
+<body>
+    <section>
+        <div class="form body">
+            <div class= "form value">
+                <form action="">
+                    <h1>Log In</h1>
+                    <div class="inputbox">
+                        <input type="email" required>
+                        <label>Email</label>
+                    </div>
+                    <div class="inputbox">
+                        <input type="password" required>
+                        <label>Password</label>
+                    </div>
+                    <div class="forget">
+                        <label for=""><input type="checkbox">Remember me</label>
+                        <a href="#">Forget password?</a>
+                    </div>
+                    <button>Log In</button>
+                    <div class="Sign Up">
+                        <p>Don't have account? </p>
+                        <a href="#">Sign Up</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </section>
+</body>
+</html>
